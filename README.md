@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Gustavo Pereira 👋
 
-<!--
-**oguhpereira/oguhpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Born in Minas Gerais, Brazil <br>
+💼 Full-Stack Developer in [jmvtechnology](https://jmvtechnology.com/) <br>
+🎓 Graduating in Computer Engineering
 
-Here are some ideas to get you started:
+### You can find me in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My Website](https://oguhpereira.com.br/)
+[Twitter](https://twitter.com/oguhpereira)
+[Instagram](http://instagram.com/oguhpereira)
+[Linkedin](https://www.linkedin.com/in/oguhpereira/)
+
