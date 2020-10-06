@@ -1,7 +1,7 @@
 ### Hi there, I'm Gustavo Pereira 👋
 
 🇧🇷 Born in Minas Gerais, Brazil <br>
-💼 Full-Stack Developer in [jmvtechnology](https://jmvtechnology.com/) <br>
+💼 FrontEnd Developer in [stone](https://https://www.stone.com.br//) <br>
 🎓 Graduating in Computer Engineering
 
 ### You can find me in
