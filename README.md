@@ -1,8 +1,8 @@
 ### Hi there, I'm Gustavo Pereira 👋
 
 🇧🇷 Born in Minas Gerais, Brazil <br>
-💼 FrontEnd Developer in [stone](https://https://www.stone.com.br//) <br>
-🎓 Graduating in Computer Engineering
+👨‍💻 Computer Engineering
+
 
 ### You can find me in
 
