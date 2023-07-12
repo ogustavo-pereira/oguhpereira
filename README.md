@@ -4,10 +4,3 @@
 👨‍💻 Computer Engineering
 
 
-### You can find me in
-
-[My Website](https://oguhpereira.com.br/)
-[Twitter](https://twitter.com/oguhpereira)
-[Instagram](http://instagram.com/oguhpereira)
-[Linkedin](https://www.linkedin.com/in/oguhpereira/)
-
