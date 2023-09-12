@@ -2,7 +2,6 @@
 
 <h3>Hey, I'm Gustavo</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🇧🇷 Born in Brazil 
 - 🎓 Computer engineer at <a href="https://www.uemg.br/">UEMG - Universidade do Estado de Minas Gerais</a>.
 - 💼 Software Engineer at <a href="https://www.stone.com.br/">Stone.Co</a>
